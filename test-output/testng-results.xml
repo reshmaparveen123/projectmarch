@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-07T12:48:52 PDT" name="Default suite" finished-at="2023-07-07T12:49:19 PDT" duration-ms="27127">
+    <groups>
+    </groups>
+    <test started-at="2023-07-07T12:48:52 PDT" name="Default test" finished-at="2023-07-07T12:49:19 PDT" duration-ms="27127">
+      <class name="test.Firstcrytest">
+        <test-method is-config="true" signature="setFirst()[pri:0, instance:test.Firstcrytest@3f6f6701]" started-at="2023-07-07T12:48:52 PDT" name="setFirst" finished-at="2023-07-07T12:49:03 PDT" duration-ms="11100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setFirst -->
+        <test-method signature="fstCryhome()[pri:0, instance:test.Firstcrytest@3f6f6701]" started-at="2023-07-07T12:49:03 PDT" name="fstCryhome" finished-at="2023-07-07T12:49:19 PDT" duration-ms="15877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fstCryhome -->
+      </class> <!-- test.Firstcrytest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
